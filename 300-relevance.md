@@ -18,7 +18,7 @@ As explained in the communications background chapter, OuiShare adopted three ne
 
 As an interesting observation, Metamaps as the only concurrent information mapping tool has not found wide adoption within the community either. It is possible that non-linear descriptive models require a certain type of information analyst profile that OuiShare community currently does not have or attract in numbers, or such people are not visible or active.
 
-Collective building of conversations around OuiShare Fest
+### Collective building of conversations around OuiShare Fest
 
 We had anticipated using LiteMap in the process of building one of the Fest thematic tracks (decentralization track). However it is difficult to foresee the exact work processes in OuiShare’s very agile work environment. Therefore we ended up working on the track structures in a way where there wasn’t time or possibility to involve a new tool with quite a complicated UX in the process. 
 
