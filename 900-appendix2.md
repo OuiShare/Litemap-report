@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Appendix 2. Project timeline
+title: 
 permalink: /appendix-2/
 ---
 
