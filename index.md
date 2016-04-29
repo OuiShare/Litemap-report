@@ -15,4 +15,11 @@ This website holds an interactive copy of the documentation and report of the Ou
 
 <hr>
 
-Project leader: [Auli Kütt](http://ouishare.net/en/profile/auli-kutt)
+Project leader: [Auli Kütt](http://ouishare.net/profile/auli-kutt)
+
+With much gratitude and appreciation to the following members of OuiShare community for their help and constructive remarks:
+
+- [David Canat](ouishare.net/profile/david-canat)
+- [Myriam Bouré](http://ouishare.net/profile/myriam-boure)
+- [Jocelyn Ibarra](http://ouishare.net/profile/jocelyn-ibarra)
+- [Ishan Shapiro](http://ouishare.net/profile/1387)
