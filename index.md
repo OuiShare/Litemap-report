@@ -23,3 +23,6 @@ With much gratitude and appreciation to the following members of OuiShare commun
 - [Myriam Bouré](http://ouishare.net/profile/myriam-boure)
 - [Jocelyn Ibarra](http://ouishare.net/profile/jocelyn-ibarra)
 - [Ishan Shapiro](http://ouishare.net/profile/1387)
+
+
+August 2015
